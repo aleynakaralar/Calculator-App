@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(27, 23, 81);
+}
+
+.container, #keys, header{
+    display: flex;
+    justify-content: center;
+   
+}
+
+button{
+    border-radius: 70%;
+    width: 90px;
+    height: 60px;
+   
+    
+}
+
+button:hover {
+    color: white;
+  }
+
+  header{
+    color: bisque;
+    font-size: 30px;
+    margin-top: 5%;
+  }
+
+  #result{
+    width: 250px;
+    height: 50px;
+    margin: 30px;
+    
+  }
